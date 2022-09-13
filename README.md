@@ -26,12 +26,15 @@
       
       ![all_data_dark](https://user-images.githubusercontent.com/107717882/190008753-294e09ba-b2d6-4233-973a-b1bc7a7eef80.png)
       
-
 ## Summary
 
-      Plotting your data analysis is very important aspect. In this analysis,  Leaflet helps to display interactive earthquake maps  using Mapbox API with the help of       JAvaScript , GeoJSON ang D3.js library.  Also, we can view map with major earthquakes, tectonic plates by selecting street, satellite or dark views. This               analysis  gives us insight that which part of earth has more earthquakes, with more magnitudes. Largest earthquake belt you can see near Pacific ocean.  
-    
-      Have a look at complete page of Earthquake Mapping.
+   Plotting your data analysis is very important aspect. In this analysis,  Leaflet helps to display interactive earthquake maps  using Mapbox API with the help of        JAvaScrip , GeoJSON ang D3.js library.  Also, we can view map with major earthquakes, tectonic plates by selecting street, satellite or dark views. This analysis      gives us insight that which part of earth has more earthquakes, with more magnitudes. Largest earthquake belt you can see near Pacific Ocean.  
+   
+   Have a look at complete page of __“Earthquake Mapping”__ .
+   
+   ![mapping_earthquakes](https://user-images.githubusercontent.com/107717882/190010640-476ee3c2-741f-4ed2-b732-80cc07fc584a.png)
 
-    
+   
+   
+   
 
