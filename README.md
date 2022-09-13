@@ -10,7 +10,7 @@
 
       d3.json("https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json") makes a call to get tectonic plate data. GeoJSON objects       are added to the map through a GeoJSON layer, L.geoJSON() which parses our data. In geoJSON() layer , lines are styled with color “orange” and weight “2.5” to         show tectonic plates of earth. 
       
-      After adding tectonic plate layer to map, maps looks like below in satellite view with orange plate lines having weight 2.5. 
+      After adding tectonic plate layer to map, map looks like below in satellite view with orange plate lines having weight 2.5. 
       
       ![tectonic_plates_satellite](https://user-images.githubusercontent.com/107717882/190008694-2cc06236-ceb5-405c-906b-4ab83e353aa3.png)
 
@@ -30,7 +30,7 @@
 
    Plotting your data analysis is very important aspect. In this analysis,  Leaflet helps to display interactive earthquake maps  using Mapbox API with the help of        JAvaScrip , GeoJSON ang D3.js library.  Also, we can view map with major earthquakes, tectonic plates by selecting street, satellite or dark views. This analysis      gives us insight that which part of earth has more earthquakes, with more magnitudes. Largest earthquake belt you can see near Pacific Ocean.  
    
-   Have a look at complete page of __“Earthquake Mapping”__ .
+   Have a look at complete page of __“Mapping Earthquakes”__ .
    
    ![mapping_earthquakes](https://user-images.githubusercontent.com/107717882/190010640-476ee3c2-741f-4ed2-b732-80cc07fc584a.png)
 
